@@ -1,0 +1,2 @@
+gfortran -fbounds-check -framework accelerate ATMAN5.f index_prtn.f Intra_Check2.f subs2.f updateMC.f updateSC.f Intra_NCB_direct5.f Inter_Prtn_Lig.f Enrgy2.f Enrgy_Inter2.f Enrgy_interL.f num_H_prtn.f u3best.f num_F_prtn5.f Deigen.f hessian_check.f Four_Bonds2.f epsilons.f updateRB.f angletor.f ops.f CountDoF.f Pvec.f RotStiffSC.f RotStiffMC.f  CullHOH.f RotStiffPro.f RotStiffNter.f ana_F_ATMAN.f Three_Bonds.f
+

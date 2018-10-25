@@ -1,0 +1,2 @@
+gfortran -framework accelerate -fbounds-check Movie_Prtn_Seq.f index_prtn.f subs2.f updateMC.f updateSC.f  u3best.f updateRB.f CountDoF.f InertiaTensorANA.f Nhat.f Pvec.f angletor.f ops.f 
+
